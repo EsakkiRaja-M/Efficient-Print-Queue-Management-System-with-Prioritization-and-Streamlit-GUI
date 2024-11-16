@@ -132,4 +132,4 @@ cd print-queue-management</code></pre>
 
 <h2 id="acknowledgments">Acknowledgments</h2>
 
-<p>We would like to thank the contributors, mentors, and all those who supported the development of this project. Special thanks to the open-source community for the tools and libraries that made this project possible.</p>
+<p>We would like to thank the contributors, team members, and all those who supported the development of this project. Special thanks to the open-source community for the tools and libraries that made this project possible.</p>
