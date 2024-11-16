@@ -63,8 +63,8 @@
 <h3>Setup Steps</h3>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/print-queue-management.git
-cd print-queue-management</code></pre>
+    <pre><code>git clone https://github.com/EsakkiRaja-M/Efficient-Print-Queue-Management-System-with-Prioritization-and-Streamlit-GUI.git
+cd Efficient-Print-Queue-Management-System-with-Prioritization-and-Streamlit-GUI</code></pre>
   </li>
   <li>Compile the C code:
     <pre><code>gcc -o print_queue print_queue.c</code></pre>
